@@ -1,0 +1,9 @@
+python -m venv .venv
+
+
+source .venv/Scripts/activate
+
+
+deactivate - декативация
+
+pip install -r requirements.txt  #зависимости
